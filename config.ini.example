@@ -1,0 +1,3 @@
+[DEFAULT]
+APP_SECRET = 'potato'
+APP_KEY = 'another_potato'
