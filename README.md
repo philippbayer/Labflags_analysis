@@ -1,7 +1,13 @@
 
-## Counting tweets mentioning #labflags
+# Counting tweets mentioning #labflags
 
 There are a few #labflags tweets out now and I wonder whether that correlates with the number of people living in these countries, let's check!
+
+## TODO
+- the twython/config thing is currently broken, manual copy/paste works
+- have to check whether the twitter API actually returns all tweets, currently only very few
+- some things are ugly (the parsing of emojis from the returned text, for example)
+- more analyses?
 
 
 ```python
